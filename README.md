@@ -4,6 +4,7 @@ auto_html
 auto_html is a Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video,...). It's the perfect choice if you don't want to bother visitors with rich HTML editor or markup code, but you still want to allow them to embed video, images, links and more on your site, purely by pasting URL. Check out the [live demo](http://auto-html.rors.org).
 
 
+
 ## Example usage
 
 Transforming string with text and URLs is done with *auto_html* method:
